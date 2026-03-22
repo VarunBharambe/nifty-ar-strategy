@@ -4,7 +4,7 @@ In my previous post, I explored Monte Carlo simulation to model the distribution
 
 As a next step, I shifted focus to time-series forecasting — testing whether past returns can help predict future returns using an Auto-Regressive (AR) model.
 
-Using weekly NIFTY 50 data (last ~5 years), I:
+Using weekly NIFTY 50 data (last ~7 years), I:
 
 • Computed returns from historical price data
 • Verified stationarity using the ADF test
